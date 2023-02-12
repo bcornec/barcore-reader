@@ -1,0 +1,2 @@
+# barcore-reader
+Barcode reader
